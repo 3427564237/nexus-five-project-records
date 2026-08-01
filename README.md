@@ -8,7 +8,8 @@ This repository contains the final project-record set for COMP3851A / COMP3851B.
 - `Meeting_Minutes_Complete.pdf`: the combined twelve-meeting collection. Editable DOCX files remain inside the Sprint folders.
 - `Diagrams/Class_Diagram.png`: final-scope class diagram.
 - `Diagrams/Use_Case_Diagram.png`: final-scope use case diagram.
-- `Diagrams/Gantt_Chart.png`: Sprint 1-5 timeline.
+- `Diagrams/Gantt_Chart.png`: combined detailed Sprint 1-5 Gantt chart.
+- `Diagrams/Gantt_Sprint1.png` to `Diagrams/Gantt_Sprint5.png`: readable Sprint-level charts with four dated tasks for each member, member roles, completion status, and review milestones.
 - `Hours_on_Project.xlsx`: planned and actual weekly hours. Every member has at least 100 planned and actual hours.
 
 ## Meeting allocation
@@ -25,5 +26,5 @@ This repository contains the final project-record set for COMP3851A / COMP3851B.
 ## Notes
 
 - All meeting minutes use the supplied three-column template and the same level of detail; page count varies only when Parking Lot content continues onto a second page.
-- Diagrams are exported as separate high-resolution PNG files.
+- Diagrams are exported as separate high-resolution PNG files. The detailed Gantt set contains 20 member-owned tasks per Sprint and marks every completed task as `Done`.
 - The class and use case layouts use dedicated connector gutters to keep labels and content unobstructed.
