@@ -1,0 +1,47 @@
+The login error page does not show "Forgot Password".
+
+The registration page shows "Invitation Code Out of Scope".
+
+Less Personalized Mode Out of Scope.
+
+No reason given for the activity recommendation.
+
+Limited Mode Out of Scope.
+
+Public Profile: No public check-in status seen.
+
+Public Profile message: The green "public" icon is unclear.
+
+Public Profile message (out of scope) is unclear.
+
+Public Profile: The nuvi icon in the top left corner should not be "profile". Delete.
+
+The People You May Know page has no entry point.
+
+The Friend Request Sent page shows "Back to Profile".
+
+The Friend Requests page has no entry point.
+
+How is the Friend Requests Engineering Year 1 defined?
+
+When is Request Declined triggered?
+
+Validation Error - Inconsistent Interface
+
+Timeline & Calendar: The check-in overview displayed below the calendar should show the currently selected day. The "recent" feature could be removed.
+
+AI Customize sol.md is unclear. The "How should the assistant support you?" box could include a prompt allowing users to customize the AI's role or style. If the user enters custom content, there should be a second confirmation step when the preset is changed, indicating whether to clear the input and use the preset.
+
+Mental health is within the current sprint range; implementation details are tentative.
+
+Privacy Settings lacks info.
+
+Check-in Timeline & Monthly Calendar functionality is redundant.
+
+Consent Settings -> Data Consent: Directly use the dataconsent interface.
+
+Missing interface for editing personal information.
+
+Missing route map based on check-in location. It should be visible in the personal interface and Public Profile interface. Privacy settings should have corresponding permission switches.
+
+No delete or edit interface for check-in.
